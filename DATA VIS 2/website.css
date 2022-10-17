@@ -1,0 +1,30 @@
+
+h1{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+p{
+    color: rgb(41, 36, 36);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    width: 720px;
+}
+#hello{
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: right;
+    width: 1440px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+  }
